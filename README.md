@@ -21,4 +21,4 @@ Before using this tool, you will be asked to authorize its access to your Google
 
 ## Contact
 
-For questions, support, or bug reports, please contact [Your Name/Lab] at [Your Support Email, e.g., jroggeveen@g.harvard.edu].
+For questions, support, or bug reports, please contact James Roggeveen at roggeveen [at] seas dot harvard dot edu.
